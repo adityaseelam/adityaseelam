@@ -1,4 +1,5 @@
-<h3>Hi 👋, I'm Aditya</h3> ![giphy](https://github.com/user-attachments/assets/7b9e3ca5-3ac1-49cb-bbef-fdd1c1a24c96)
+<h3>Hi 👋, I'm Aditya</h3> 
+  ![giphy](https://github.com/user-attachments/assets/cfccb802-9315-4224-8a16-b73bda06b70a)
 
  <p>🌟 Welcome to my Mess 🌟</p>
 
