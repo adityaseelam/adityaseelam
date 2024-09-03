@@ -1,6 +1,6 @@
-## Hi there    👋
+<h3>Hi 👋, I'm Aditya</h3> ![giphy](https://github.com/user-attachments/assets/7b9e3ca5-3ac1-49cb-bbef-fdd1c1a24c96)
 
-![cat-driving-cat](https://github.com/user-attachments/assets/cab60e9c-ddde-433b-886f-5e4758b7e65f)
+ <p>🌟 Welcome to my Mess 🌟</p>
 
 Here are some ideas to get you started:
 
