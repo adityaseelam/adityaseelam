@@ -1,4 +1,5 @@
 <h3>Hi 👋, I'm Aditya</h3> 
+  <img src="giphy.gif" width="50"/>
 
  <p>🌟 Welcome to my Mess 🌟</p>
 
