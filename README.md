@@ -7,3 +7,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Advanced System Verilog and TCL
 - 📫 How to reach me: (mailto:adityaseelam@gmail.com)[https://www.linkedin.com/in/aditya-seelam/](url)
 -                     (https://www.linkedin.com/in/aditya-seelam/)
+-                 [Gmail](adity)
