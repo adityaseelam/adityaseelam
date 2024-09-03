@@ -5,4 +5,5 @@
 Here are some ideas to get you started:
 - 🔭 I’m currently working on more VLSI Projects
 - 🌱 I’m currently learning Advanced System Verilog and TCL
-- 📫 How to reach me: [Gmail] (adityaseelam@gmail.com) 
+- 📫 How to reach me: (mailto:adityaseelam@gmail.com)
+-                     (https://www.linkedin.com/in/aditya-seelam/)
