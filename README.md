@@ -1,5 +1,6 @@
 <h3>Hi 👋, I'm Aditya</h3> 
-  ![giphy](https://github.com/user-attachments/assets/cfccb802-9315-4224-8a16-b73bda06b70a)
+  ![cat-driving-cat](https://github.com/user-attachments/assets/a047f8b4-2897-4a7e-8b75-796b0d173a62)
+
 
  <p>🌟 Welcome to my Mess 🌟</p>
 
