@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there    👋
 
-<!--
-**adityaseelam/adityaseelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![cat-driving-cat](https://github.com/user-attachments/assets/cab60e9c-ddde-433b-886f-5e4758b7e65f)
 
 Here are some ideas to get you started:
 
