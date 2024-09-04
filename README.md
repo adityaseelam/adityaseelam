@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi 👋, I'm Aditya</h3>
-  <img src="giphy.gif" width="80"/>
+  <img src="cat-driving-cat.gif" width="80"/>
 
 
  <p>🌟Welcome to my Mess🌟</p>
